@@ -59,3 +59,5 @@ java -jar CORRESPONDING_JAR_FILE_NAME.jar
 
 3. Create an AMI from this EC2 instance.
 4. Now you can start new EC2 instances in bulk from this generated AMI.
+
+More information: [http://cs585ddos.com](http://cs585ddos.com).
